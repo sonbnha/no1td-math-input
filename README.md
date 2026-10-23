@@ -30,7 +30,7 @@
 
 ## Cài đặt
 
-1. Tải **no1td-Math-0.1.dmg** ở trang [Releases](https://github.com/sonbnha/no1td-math-input/releases/latest), mở ra và kéo **no1td Math** vào Applications.
+1. Tải **no1td-Math-0.1.1.dmg** ở trang [Releases](https://github.com/sonbnha/no1td-math-input/releases/latest), mở ra và kéo **no1td Math** vào Applications.
 2. Lần đầu mở: bấm chuột phải vào app → **Mở** → **Mở**. Bản này chưa được Apple xác minh.
 3. Chọn **Cài** khi app hỏi cài add-in cho Word. Thoát Word rồi mở lại: Ribbon có tab "no1td Math".
 4. Để click đúp mở công thức: vào System Settings → Quyền riêng tư & Bảo mật → Trợ năng, bật "no1td Math".
