@@ -18,7 +18,7 @@
 - Thanh ký hiệu và thanh mẫu như MathType: phân số, căn, chỉ số, tổng, tích phân, giới hạn, hệ phương trình, ma trận...
 - Các tab biểu thức có sẵn: Đại số, Hình học, Giải tích, Xác suất, Lượng giác, Tập hợp, Ma trận. Thêm tab Gần đây và Của tôi.
 - Phím tắt MathType (Ctrl+F phân số, Ctrl+H mũ, Ctrl+L chỉ số dưới, ...).
-- Font toán **STIX Two Math**. Chỉnh kiểu chữ, font và cỡ (Định nghĩa kiểu và cỡ) như MathType.
+- Chữ và số theo **Times New Roman** như MathType; ký hiệu toán bằng font toán **STIX Two Math**. Chỉnh kiểu chữ, font và cỡ (Định nghĩa kiểu và cỡ) như MathType.
 - Hộp Ma trận, Chèn ký hiệu, thu phóng, kiểm tra công thức ngay khi gõ.
 - **⌘↩ hoặc ⌘S**: đưa ngay công thức vào Word khi đang chèn hoặc sửa.
 - **Sao chép / ⌘C** trong app rồi **⌘V** trong Word: ra công thức MathType. Dán vào app khác thì ra mã TeX.
@@ -30,7 +30,7 @@
 
 ## Cài đặt
 
-1. Tải **no1td-Math-0.1.1.dmg** ở trang [Releases](https://github.com/sonbnha/no1td-math-input/releases/latest), mở ra và kéo **no1td Math** vào Applications.
+1. Tải **no1td-Math-0.1.2.dmg** ở trang [Releases](https://github.com/sonbnha/no1td-math-input/releases/latest), mở ra và kéo **no1td Math** vào Applications.
 2. Lần đầu mở: bấm chuột phải vào app → **Mở** → **Mở**. Bản này chưa được Apple xác minh.
 3. Chọn **Cài** khi app hỏi cài add-in cho Word. Thoát Word rồi mở lại: Ribbon có tab "no1td Math".
 4. Để click đúp mở công thức: vào System Settings → Quyền riêng tư & Bảo mật → Trợ năng, bật "no1td Math".
